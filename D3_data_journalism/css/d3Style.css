@@ -38,6 +38,7 @@
 .chart {
   display: block;
   margin: 0;
+  align-self: center;
 }
 
 .d3-tip {
@@ -68,3 +69,5 @@
     font-size: 13px;
   }
 }
+
+
